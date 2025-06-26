@@ -1,2 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<wd:Orchestration_Launch_Response xmlns:wd="urn:com.workday/bsvc" xmlns:nyw="urn:com.netyourwork/aod" wd:Status="201" wd:Message="Success"/>
+<wd:IWS_Response xmlns:wd="urn:com.workday/bsvc" xmlns:nyw="urn:com.netyourwork/aod" wd:Status="201" wd:Message="Success"/>
